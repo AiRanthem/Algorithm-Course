@@ -3,6 +3,7 @@
 *.filters
 *.user
 Debug
+.vscode
 # Prerequisites
 *.d
 
